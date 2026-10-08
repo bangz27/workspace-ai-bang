@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center AI Workspace Diamond Sparkle & Chat Bubble Structure -->
+    <!-- Soft Glow Layer -->
+    <path
+        android:pathData="M54,28 C64,28 72,36 72,46 C72,56 64,64 54,64 C50,64 46,62.8 43,60.8 L34,64 L37,56 C34.5,53.2 33,49.8 33,46 C33,36 42,28 54,28 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="33"
+                android:startY="28"
+                android:endX="72"
+                android:endY="64"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#38BDF8" />
+                <item android:offset="0.5" android:color="#6366F1" />
+                <item android:offset="1.0" android:color="#A855F7" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Central AI Neural Sparkle inside chat bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,35 L56.2,42.5 L63.5,44.7 L56.2,47 L54,54.5 L51.7,47 L44.5,44.7 L51.7,42.5 Z" />
+    <!-- Secondary AI Sparkle -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M68,52 L69.2,56.5 L73.5,57.7 L69.2,59 L68,63.5 L66.7,59 L62.5,57.7 L66.7,56.5 Z" />
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M38,62 L39,65.5 L42.5,66.5 L39,67.5 L38,71 L37,67.5 L33.5,66.5 L37,65.5 Z" />
+    <!-- Modern Workspace Dots / Connection Nodes -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M48,74 A3,3 0 1,1 48,80 A3,3 0 1,1 48,74 M60,74 A3,3 0 1,1 60,80 A3,3 0 1,1 60,74" />
+</vector>

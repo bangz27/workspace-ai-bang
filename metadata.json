@@ -1,0 +1,6 @@
+{
+  "name": "AI Workspace",
+  "description": "Mobile-first AI Workspace with Thai localization, project context, and Gemini streaming",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
